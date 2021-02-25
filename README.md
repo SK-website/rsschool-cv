@@ -1,2 +1,1 @@
-# rsschool-cv
-Repository of educational tasks
+https://SK-website.github.io/rsschool-cv/cv
