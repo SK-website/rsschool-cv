@@ -43,3 +43,15 @@ Academy of Public Administration under the President of the Republic of Belarus
 * English *(intermediate)*
 * Belarusian *(native)*
 * Russian *(native)*
+
+
+#####Example of JS code:
+
+```
+ makeShowcase(products){ 
+        let result = '';
+        products.forEach(item => result+=this.createProduct(item));
+        document.querySelector('.showcase').innerHTML=result;
+    };
+```
+
