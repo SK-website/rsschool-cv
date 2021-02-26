@@ -7,7 +7,7 @@
 
 **GitHub**: [sk-website](https://github.com/SK-website)
 
-## **FRONT-END DEVELOPER**
+## **FRONTEND DEVELOPER**
 Experience in Javascript, HTML/CSS, GIT, SQL.  
 
 Studying front-end development technologies since 2020 I have  successfully completed several courses from QALight Academy (IT specialists training center in Kiev). 
